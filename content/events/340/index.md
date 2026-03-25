@@ -2,7 +2,7 @@
 number: "340"
 date: "2026-02-09T18:00:00+01:00"
 title: "Software Engineering Management Myths"
-speakers: "Vlad Zenkevich"
+speakers: "Uladzimir Ziankevich"
 lang: "en"
 sponsors: ["DXC", "QAgile"]
 videoURL: "https://youtu.be/CeM9HDRboc8?si=OVQP4GQlnjMARg0R"
@@ -20,7 +20,7 @@ The goal of the talk is not to dismiss these models, but to encourage a more cri
 
 ***
 
-## Speaker
+## Speaker: Uladzimir Ziankevich
 
 I am an experienced Engineering Leader with 15+ years in software development, currently working as a Senior Engineering Manager at Sportradar.
 
@@ -30,8 +30,7 @@ Known for being a critical thinker and advocate of radical candor, I am also an 
 
 During my career, while being an engineering manager I got lucky to "wear" other hats (like Delivery Manager, Account Manager, Pre-sales engineer, Product Manager) hence I know how product development looks like from different angles. This knowledge has helped me many times to align engineering direction with real business needs.
 
-Outside of work, I like to share what I’ve learned. Sometimes that means speaking at conferences, and sometimes it’s through my blog at:  
-https://vladzenkevich.com
+Outside of work, I like to share what I’ve learned. Sometimes that means speaking at conferences, and sometimes it’s through my blog at: https://vladzenkevich.com
 
 ***
 
