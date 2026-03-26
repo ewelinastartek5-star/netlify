@@ -30,7 +30,7 @@ Zapraszam każdego, komu zdarza się być gospodarzem spotkań, gdzie próbujeci
 
 ## Poznaj prowadzącą:
 
-"Cześć, jestem [Kasia](https://www.linkedin.com/in/kmydlo/)."
+Cześć, jestem [Kasia](https://www.linkedin.com/in/kmydlo/).
 
 Od kilku lat wspieram zespoły zdeterminowane do zmian w podejściu do pracy. Wcześniej działałam w różnych branżach, więc wiem, że nie ma jednego idealnego rozwiązania. W pracy szczególnie cieszy mnie rozgryzanie jak działają zespoły i znajdowanie sposobów na to, żeby zostawić po sobie organizację lepszą niż ta, do której dołączyłam. Lubię uczyć się i przekazywać wiedzę, a na co dzień doceniam dynamikę i szczerość – czasem aż do bólu. Gdy nie pracuję, odpoczywam z trójką moich kotów, ceniąc sobie każdą dodatkową minutę snu.
 
