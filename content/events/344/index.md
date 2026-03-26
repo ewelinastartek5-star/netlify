@@ -10,28 +10,6 @@ slidesURL: ""
 draft: false
 ---
 
-## Warsztat
-
-### UWAGA
-
-1. Zapisy na zewnętrznej platformie:  
-https://pragmaticmeet.com/events/90a315fd-593f-4269-b9c8-1bbb61fb4f89  
-
-2. Na warsztacie potrzebny będzie laptop  
-
-3. Prośba o wypełnienie ankiety:  
-https://forms.gle/uMyvLMMRjExFy1GXA  
-
-4. Nasz gospodarz wymaga imion i nazwisk uczestników, pod uwagę więc będą brane jedynie osoby które podały pełne imię i nazwisko w opisie konta na platformie. Zabierzcie ze sobą dokumenty tożsamości.
-
-Spotkamy się w **DXC Technology, Prosta 67, Warszawa**
-
-***
-
-## O warsztacie
-
-**DevFlow: symulacja decyzji lidera — zobacz, jak Twoje wybory wpływają na zespół**
-
 Jak podejmować decyzje, które naprawdę wzmacniają zespół — a nie tylko dobrze wyglądają na slajdach?
 
 Zapraszam Cię na interaktywny warsztat w formie symulacji projektu IT, w którym wcielisz się w lidera i zmierzysz z realnymi dylematami:
